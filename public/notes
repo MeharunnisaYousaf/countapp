@@ -1,0 +1,21 @@
+how to get MD bootstrap in react
+
+first install the ui kit from setup MDB-
+step1.take a new terminal and paste the command npm-i-mdb-react-ui-kit from the stup mdb
+step2. then after istalling that in the same terminal copy npm i @fortawesom/fontawsome-free for getting fontawsome in project
+step3. css import - copy the 2 commands in css import to index.js
+step4.copy the below another command to index.html
+
+
+redux architechture
+
+store:
+the entire state of an application lists at a place called Store.
+it can act as a brain and manages the status of the application 
+
+acttion:
+an action is a pure object which is dispatched from the view
+
+reducer:
+reducer is a pure function which is used to return a new state from inetial state
+
